@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="T7" tvg-logo="" group-title="",T7
+http://185.82.110.51:4646/live/pat/ium/117.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tribuna Channel" tvg-logo="" group-title="",Tribuna Channel
+http://185.82.110.51:4646/live/pat/ium/108.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MediaSet" tvg-logo="" group-title="",MediaSet
+http://185.82.110.51:4646/live/pat/ium/88.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MTV Kosova" tvg-logo="" group-title="",MTV Kosova
+http://185.82.110.51:4646/live/pat/ium/101.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTL" tvg-logo="" group-title="",RTL
+http://185.82.110.51:4646/live/pat/ium/87.ts
+#EXTINF:-1 tvg-ID="RTK 1" tvg-name="RTK1" tvg-logo="" group-title="",RTK1
+http://185.82.110.51:4646/live/pat/ium/1.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV21" tvg-logo="" group-title="",RTV21
+http://185.82.110.51:4646/live/pat/ium/2.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTK3" tvg-logo="" group-title="",RTK3
+http://185.82.110.51:4646/live/pat/ium/3.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KTV" tvg-logo="" group-title="",KTV
+http://185.82.110.51:4646/live/pat/ium/4.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTK4" tvg-logo="" group-title="",RTK4
+http://185.82.110.51:4646/live/pat/ium/5.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klan HD" tvg-logo="" group-title="",Klan HD
+http://185.82.110.51:4646/live/pat/ium/6.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top Channel HD" tvg-logo="" group-title="",Top Channel HD
+http://185.82.110.51:4646/live/pat/ium/7.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top News" tvg-logo="" group-title="",Top News
+http://185.82.110.51:4646/live/pat/ium/9.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dukagjini" tvg-logo="" group-title="",Dukagjini
+http://185.82.110.51:4646/live/pat/ium/10.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Opinion" tvg-logo="" group-title="",Tv Opinion
+http://185.82.110.51:4646/live/pat/ium/12.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Besa" tvg-logo="" group-title="",Besa
+http://185.82.110.51:4646/live/pat/ium/13.ts
+#EXTINF:-1 tvg-ID="" tvg-name="First Channel" tvg-logo="" group-title="",First Channel
+http://185.82.110.51:4646/live/pat/ium/14.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Klan Kosova" tvg-logo="" group-title="",Klan Kosova
+http://185.82.110.51:4646/live/pat/ium/8.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTK2" tvg-logo="" group-title="",RTK2
+http://185.82.110.51:4646/live/pat/ium/89.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Alsat M" tvg-logo="" group-title="",Alsat M
+http://185.82.110.51:4646/live/pat/ium/15.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVSH" tvg-logo="" group-title="",TVSH
+http://185.82.110.51:4646/live/pat/ium/16.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Vizion Plus" tvg-logo="" group-title="",Vizion Plus
+http://185.82.110.51:4646/live/pat/ium/17.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tv Shenja" tvg-logo="" group-title="",Tv Shenja
+http://185.82.110.51:4646/live/pat/ium/18.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Channel One" tvg-logo="" group-title="",Channel One
+http://185.82.110.51:4646/live/pat/ium/19.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ora news" tvg-logo="" group-title="",Ora news
+http://185.82.110.51:4646/live/pat/ium/21.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arta News" tvg-logo="" group-title="",Arta News
+http://185.82.110.51:4646/live/pat/ium/20.ts
+#EXTINF:-1 tvg-ID="" tvg-name="21 Popullore" tvg-logo="" group-title="",21 Popullore
+http://185.82.110.51:4646/live/pat/ium/29.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Folk+" tvg-logo="" group-title="",Folk+
+http://185.82.110.51:4646/live/pat/ium/30.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Dasma Tv" tvg-logo="" group-title="",Dasma Tv
+http://185.82.110.51:4646/live/pat/ium/22.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Star Tv" tvg-logo="" group-title="",Star Tv
+http://185.82.110.51:4646/live/pat/ium/23.ts
+#EXTINF:-1 tvg-ID="" tvg-name="21 Plus" tvg-logo="" group-title="",21 Plus
+http://185.82.110.51:4646/live/pat/ium/24.ts
+#EXTINF:-1 tvg-ID="" tvg-name="21 Maqedoni" tvg-logo="" group-title="",21 Maqedoni
+http://185.82.110.51:4646/live/pat/ium/25.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tirana Tv" tvg-logo="" group-title="",Tirana Tv
+http://185.82.110.51:4646/live/pat/ium/26.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBF" tvg-logo="" group-title="",BBF
+http://185.82.110.51:4646/live/pat/ium/27.ts
+#EXTINF:-1 tvg-ID="" tvg-name="on Tv" tvg-logo="" group-title="",on Tv
+http://185.82.110.51:4646/live/pat/ium/28.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Club Tv" tvg-logo="" group-title="",Club Tv
+http://185.82.110.51:4646/live/pat/ium/34.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Click Tv" tvg-logo="" group-title="",Click Tv
+http://185.82.110.51:4646/live/pat/ium/35.ts
+#EXTINF:-1 tvg-ID="" tvg-name="21 Mix" tvg-logo="" group-title="",21 Mix
+http://185.82.110.51:4646/live/pat/ium/36.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Elrodi Tv" tvg-logo="" group-title="",Elrodi Tv
+http://185.82.110.51:4646/live/pat/ium/37.ts
+#EXTINF:-1 tvg-ID="" tvg-name="T HD" tvg-logo="" group-title="",T HD
+http://185.82.110.51:4646/live/pat/ium/38.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Jolly HD" tvg-logo="" group-title="",Jolly HD
+http://185.82.110.51:4646/live/pat/ium/39.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Hits" tvg-logo="" group-title="",Film Hits
+http://185.82.110.51:4646/live/pat/ium/40.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Aksion" tvg-logo="" group-title="",Film Aksion
+http://185.82.110.51:4646/live/pat/ium/41.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Thriller" tvg-logo="" group-title="",Film Thriller
+http://185.82.110.51:4646/live/pat/ium/42.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Drame" tvg-logo="" group-title="",Film Drame
+http://185.82.110.51:4646/live/pat/ium/43.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Autor" tvg-logo="" group-title="",Film Autor
+http://185.82.110.51:4646/live/pat/ium/44.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Nje HD" tvg-logo="" group-title="",Film Nje HD
+http://185.82.110.51:4646/live/pat/ium/45.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Film Dy HD" tvg-logo="" group-title="",Film Dy HD
+http://185.82.110.51:4646/live/pat/ium/46.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Shqip" tvg-logo="" group-title="",Tring Shqip
+http://185.82.110.51:4646/live/pat/ium/48.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Comedy" tvg-logo="" group-title="",Tring Comedy
+http://185.82.110.51:4646/live/pat/ium/49.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Fantasy" tvg-logo="" group-title="",Tring Fantasy
+http://185.82.110.51:4646/live/pat/ium/50.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Max" tvg-logo="" group-title="",Tring Max
+http://185.82.110.51:4646/live/pat/ium/51.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Super" tvg-logo="" group-title="",Tring Super
+http://185.82.110.51:4646/live/pat/ium/52.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Turbo Channel" tvg-logo="" group-title="",Turbo Channel
+http://185.82.110.51:4646/live/pat/ium/32.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Life" tvg-logo="" group-title="",Tring Life
+http://185.82.110.51:4646/live/pat/ium/53.ts
+#EXTINF:-1 tvg-ID="" tvg-name="3 Plus" tvg-logo="" group-title="",3 Plus
+http://185.82.110.51:4646/live/pat/ium/54.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox" tvg-logo="" group-title="",Fox
+http://185.82.110.51:4646/live/pat/ium/55.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Life" tvg-logo="" group-title="",Fox Life
+http://185.82.110.51:4646/live/pat/ium/56.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fox Crime" tvg-logo="" group-title="",Fox Crime
+http://185.82.110.51:4646/live/pat/ium/57.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cufo Tv" tvg-logo="" group-title="",Cufo Tv
+http://185.82.110.51:4646/live/pat/ium/58.ts
+#EXTINF:-1 tvg-ID="" tvg-name="21 Junior" tvg-logo="" group-title="",21 Junior
+http://185.82.110.51:4646/live/pat/ium/59.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Tring" tvg-logo="" group-title="",Tring Tring
+http://185.82.110.51:4646/live/pat/ium/60.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Kids" tvg-logo="" group-title="",Tring Kids
+http://185.82.110.51:4646/live/pat/ium/61.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Coorton Network" tvg-logo="" group-title="",Coorton Network
+http://185.82.110.51:4646/live/pat/ium/62.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EXP Natyra" tvg-logo="" group-title="",EXP Natyra
+http://185.82.110.51:4646/live/pat/ium/63.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring World" tvg-logo="" group-title="",Tring World
+http://185.82.110.51:4646/live/pat/ium/64.ts
+#EXTINF:-1 tvg-ID="Tring History" tvg-name="Tring Histori" tvg-logo="" group-title="",Tring Histori
+http://185.82.110.51:4646/live/pat/ium/65.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tring Planet" tvg-logo="" group-title="",Tring Planet
+http://185.82.110.51:4646/live/pat/ium/66.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Travel Channel" tvg-logo="" group-title="",Travel Channel
+http://185.82.110.51:4646/live/pat/ium/67.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Nat Geo" tvg-logo="" group-title="",Nat Geo
+http://185.82.110.51:4646/live/pat/ium/68.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SS1" tvg-logo="" group-title="",SS1
+http://185.82.110.51:4646/live/pat/ium/69.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SS2" tvg-logo="" group-title="",SS2
+http://185.82.110.51:4646/live/pat/ium/70.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SS3" tvg-logo="" group-title="",SS3
+http://185.82.110.51:4646/live/pat/ium/71.ts
+#EXTINF:-1 tvg-ID="" tvg-name="SS4" tvg-logo="" group-title="",SS4
+http://185.82.110.51:4646/live/pat/ium/72.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TsNews" tvg-logo="" group-title="",TsNews
+http://185.82.110.51:4646/live/pat/ium/73.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TS1" tvg-logo="" group-title="",TS1
+http://185.82.110.51:4646/live/pat/ium/74.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TS2" tvg-logo="" group-title="",TS2
+http://185.82.110.51:4646/live/pat/ium/75.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TS3" tvg-logo="" group-title="",TS3
+http://185.82.110.51:4646/live/pat/ium/76.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TS4" tvg-logo="" group-title="",TS4
+http://185.82.110.51:4646/live/pat/ium/77.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Telesport" tvg-logo="" group-title="",Telesport
+http://185.82.110.51:4646/live/pat/ium/78.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 2" tvg-logo="" group-title="",Sport Klub 2
+http://185.82.110.51:4646/live/pat/ium/91.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sprot Klub 1" tvg-logo="" group-title="",Sprot Klub 1
+http://185.82.110.51:4646/live/pat/ium/90.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 3" tvg-logo="" group-title="",Arena Sport 3
+http://185.82.110.51:4646/live/pat/ium/95.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arens Sport 2" tvg-logo="" group-title="",Arens Sport 2
+http://185.82.110.51:4646/live/pat/ium/94.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Arena Sport 1" tvg-logo="" group-title="",Arena Sport 1
+http://185.82.110.51:4646/live/pat/ium/93.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sport Klub 3" tvg-logo="" group-title="",Sport Klub 3
+http://185.82.110.51:4646/live/pat/ium/92.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 1" tvg-logo="" group-title="",Eurosport 1
+http://185.82.110.51:4646/live/pat/ium/79.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Eurosport 2" tvg-logo="" group-title="",Eurosport 2
+http://185.82.110.51:4646/live/pat/ium/80.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Luxe Tv" tvg-logo="" group-title="",Luxe Tv
+http://185.82.110.51:4646/live/pat/ium/82.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Muse" tvg-logo="" group-title="",Muse
+http://185.82.110.51:4646/live/pat/ium/83.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Kanali 7" tvg-logo="" group-title="",Kanali 7
+http://185.82.110.51:4646/live/pat/ium/84.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Smile Tv" tvg-logo="" group-title="",Smile Tv
+http://185.82.110.51:4646/live/pat/ium/85.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Tip Tv" tvg-logo="" group-title="",Tip Tv
+http://185.82.110.51:4646/live/pat/ium/86.ts
